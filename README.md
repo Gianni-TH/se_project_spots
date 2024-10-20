@@ -33,3 +33,7 @@ _Grid in desktop view_
 _Grid in mobile view_
 
 ![Grid in mobile view](images/demo/grid_mobile_view.png)
+
+**Link to page**
+
+https://gianni-th.github.io/se_project_spots/
