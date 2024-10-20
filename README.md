@@ -1,25 +1,5 @@
 # Project 3: Spots
 
-### Overview
-
-- Intro
-- Figma
-- Images
-
-**Intro**
-
-This project is made so all the elements are displayed correctly on popular screen sizes. We recommend investing more time in completing this project, since it's more difficult than previous ones.
-
-**Figma**
-
-- [Link to the project on Figma](https://www.figma.com/file/BBNm2bC3lj8QQMHlnqRsga/Sprint-3-Project-%E2%80%94-Spots?type=design&node-id=2%3A60&mode=design&t=afgNFybdorZO6cQo-1)
-
-**Images**
-
-The way you'll do this at work is by exporting images directly from Figma — we recommend doing that to practice more. Don't forget to optimize them [here](https://tinypng.com/), so your project loads faster.
-
-Good luck and have fun!
-
 **Intro**
 
 This project is for an interactive social media photo sharing web application. This page is a profile page of one user and will adapt to various screen dimensions, from desktop to mobile.
@@ -31,6 +11,8 @@ This project is for an interactive social media photo sharing web application. T
 - Flexbox
 - Grids
 - Responsive layouts
+
+Flexbox was used for the profile section and for the individual cards, and grids was used for the overall cards section to give it a more uniform structure and to better adapt to changing screen size dimensions.
 
 **Responsive Features**
 
@@ -49,3 +31,5 @@ _Grid in desktop view_
 ![Grid in desktop view](images/demo/grid_desktop_view.png)
 
 _Grid in mobile view_
+
+![Grid in mobile view](images/demo/grid_mobile_view.png)
