@@ -10,6 +10,7 @@
   max-height: 190px;
   margin: 0 20px 0 0;
   border-radius: 5%;
+  object-fit: cover;
 }
 
 .profile__column {
@@ -56,6 +57,12 @@
   font-weight: 500;
   font-size: 16px;
   line-height: 1;
+  transition: opacity 0.3s;
+}
+
+.profile__edit-button:hover {
+  cursor: pointer;
+  opacity: 1;
 }
 
 .profile__new-post {
@@ -75,6 +82,12 @@
   font-weight: 500;
   font-size: 16px;
   line-height: 1;
+  transition: opacity 0.3s;
+}
+
+.profile__new-post:hover {
+  cursor: pointer;
+  opacity: 0.8;
 }
 
 @media screen and (max-width: 630px) {

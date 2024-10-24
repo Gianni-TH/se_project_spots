@@ -17,5 +17,10 @@
   .cards__list {
     grid-template-columns: repeat(auto-fit, 288px);
     grid-column-gap: 20px;
+    grid-row-gap: 20px;
+  }
+
+  .cards {
+    padding-bottom: 20px;
   }
 }

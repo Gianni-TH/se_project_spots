@@ -34,6 +34,10 @@ _Grid in mobile view_
 
 ![Grid in mobile view](images/demo/grid_mobile_view.png)
 
+**Video Submission**
+
+https://drive.google.com/drive/folders/1eS8z79TabTn_4qiHncfOe8HRaCKDZjLk?usp=drive_link
+
 **Link to page**
 
 https://gianni-th.github.io/se_project_spots/
