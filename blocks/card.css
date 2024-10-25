@@ -1,6 +1,6 @@
 .card {
   max-width: 413px;
-  height: 445px;
+  min-height: 445px;
 }
 
 .card__image {
@@ -30,7 +30,7 @@
 }
 
 .card__like-button {
-  background-image: url(../images/heart.png);
+  background-image: url(../images/heart.svg);
   width: 23px;
   height: 20px;
   border: none;
@@ -46,8 +46,8 @@
 
 @media screen and (max-width: 630px) {
   .card {
-    width: 288px;
-    height: 318px;
+    max-width: 100%;
+    min-height: 318px;
   }
 
   .card__image {
